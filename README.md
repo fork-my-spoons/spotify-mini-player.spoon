@@ -16,7 +16,7 @@ Click on the first item of the menu toggles the playback.
 
       ```brew install hammerspoon --cask```
 
- - download [spotify-mini-player.spoon](), unzip and double click on a .spoon file. It will be installed under `~/.hammerspoon/Spoons` folder.
+ - download [spotify-mini-player.spoon](https://github.com/fork-my-spoons/spotify-mini-player.spoon/releases/latest/download/spotify-mini-player.spoon.zip), unzip and double click on a .spoon file. It will be installed under `~/.hammerspoon/Spoons` folder.
  
  - open ~/.hammerspoon/init.lua and add the following snippet, adding your parameters:
 
