@@ -26,9 +26,9 @@ hs.loadSpoon("spotify-mini-player")
 spoon['spotify-mini-player']:start()
 spoon['spotify-mini-player']:bindHotkeys(
   {
-    next={{"alt"}, "."},
-    prev={{"alt"}, ","},
-    playpause={{"alt"}, "/"}
+    next={ {"alt"}, "."},
+    prev={ {"alt"}, ","},
+    playpause={ {"alt"}, "/"}
   }
 )
 ```
