@@ -2,7 +2,7 @@
 
 A menubar app which shows currely playing song on Spotify, when clicked shows following menu, with details of the track:
 
-<img alt="screenshot" src="https://github.com/fork-my-spoons/spotify-mini-player.spoon/blob/master/screenshot.png">
+<img alt="screenshot" src="https://github.com/fork-my-spoons/spotify-mini-player.spoon/raw/master/screenshot.png">
 
 Click on the first item of the menu toggles the playback.
 
